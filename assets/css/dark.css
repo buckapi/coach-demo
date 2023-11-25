@@ -28,7 +28,7 @@ Default CSS
   left: 0;
   right: 0;
   bottom: 0;
-  background: #F0B9B2;
+  background: #f4bd3c;
   -webkit-transition: 0.4s;
   transition: 0.4s;
 }
@@ -53,12 +53,12 @@ Default CSS
 }
 
 .switch-box input:checked + .slider {
-  background-color: #F0B9B2;
+  background-color: #f4bd3c;
 }
 
 .switch-box input:focus + .slider {
-  -webkit-box-shadow: 0 0 1px #F0B9B2;
-          box-shadow: 0 0 1px #F0B9B2;
+  -webkit-box-shadow: 0 0 1px #f4bd3c;
+          box-shadow: 0 0 1px #f4bd3c;
 }
 
 .switch-box input:checked + .slider:before {
@@ -107,7 +107,7 @@ Default CSS
 }
 
 .theme-dark p a:hover {
-  color: #F0B9B2 !important;
+  color: #f4bd3c !important;
 }
 
 .theme-dark .h1, .theme-dark .h2, .theme-dark .h3, .theme-dark .h4, .theme-dark .h5, .theme-dark .h6, .theme-dark h1, .theme-dark h2, .theme-dark h3, .theme-dark h4, .theme-dark h5, .theme-dark h6 {
@@ -119,7 +119,7 @@ Default CSS
 }
 
 .theme-dark .h1 a:hover, .theme-dark .h2 a:hover, .theme-dark .h3 a:hover, .theme-dark .h4 a:hover, .theme-dark .h5 a:hover, .theme-dark .h6 a:hover, .theme-dark h1 a:hover, .theme-dark h2 a:hover, .theme-dark h3 a:hover, .theme-dark h4 a:hover, .theme-dark h5 a:hover, .theme-dark h6 a:hover {
-  color: #F0B9B2 !important;
+  color: #f4bd3c !important;
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item a {
@@ -127,11 +127,11 @@ Default CSS
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item a:hover, .theme-dark .main-navbar .navbar .navbar-nav .nav-item a:focus, .theme-dark .main-navbar .navbar .navbar-nav .nav-item a.active {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item:hover a, .theme-dark .main-navbar .navbar .navbar-nav .nav-item.active a {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li a {
@@ -139,7 +139,7 @@ Default CSS
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li a:hover, .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li a:focus, .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li a.active {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .main-navbar .navbar .others-options .option-item .cart-btn a {
@@ -147,11 +147,11 @@ Default CSS
 }
 
 .theme-dark .main-navbar .navbar .others-options .option-item .cart-btn a:hover {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .main-navbar .navbar .others-options .option-item .cart-btn a span {
-  background: #F0B9B2;
+  background: #f4bd3c;
   color: #ffffff;
 }
 
@@ -160,7 +160,7 @@ Default CSS
 }
 
 .theme-dark .main-navbar .navbar .others-options .option-item .search-box i:hover {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .navbar-area.is-sticky {
@@ -172,12 +172,12 @@ Default CSS
 }
 
 .theme-dark .navbar-area.is-sticky.p-relative-color .main-navbar .navbar .others-options .option-item .cart-btn a:hover {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .navbar-area.is-sticky.p-relative-color .main-navbar .navbar .others-options .option-item .cart-btn a span {
   background: #ffffff;
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .navbar-area.is-sticky.p-relative-color .main-navbar .navbar .others-options .option-item .search-box i {
@@ -185,7 +185,7 @@ Default CSS
 }
 
 .theme-dark .navbar-area.is-sticky.p-relative-color .main-navbar .navbar .others-options .option-item .search-box i:hover {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .p-relative-color .main-navbar {
@@ -197,11 +197,11 @@ Default CSS
 }
 
 .theme-dark .p-relative-color .main-navbar .navbar .others-options .option-item .cart-btn a:hover {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .p-relative-color .main-navbar .navbar .others-options .option-item .cart-btn a span {
-  background: #F0B9B2;
+  background: #f4bd3c;
   color: #ffffff;
 }
 
@@ -210,7 +210,7 @@ Default CSS
 }
 
 .theme-dark .p-relative-color .main-navbar .navbar .others-options .option-item .search-box i:hover {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .search-overlay .search-overlay-form form .input-search {
@@ -302,11 +302,11 @@ Default CSS
 }
 
 .theme-dark .offer-item .accordion .accordion-item .accordion-title h3:hover {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .offer-item .accordion .accordion-item .accordion-title span {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .offer-item .accordion .accordion-item .accordion-content p {
@@ -319,8 +319,8 @@ Default CSS
 }
 
 .theme-dark .offer-item .accordion .accordion-item .accordion-content .offer-btn:hover {
-  color: #F0B9B2;
-  border-bottom: 1px solid #F0B9B2;
+  color: #f4bd3c;
+  border-bottom: 1px solid #f4bd3c;
 }
 
 .theme-dark .reviews-slides .reviews-feedback .single-feedback p {
@@ -349,7 +349,7 @@ Default CSS
 }
 
 .theme-dark .philosophy-item .philosophy-content .philosophy-quote i {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .philosophy-item .philosophy-content .philosophy-quote p {
@@ -442,11 +442,11 @@ Default CSS
 
 .theme-dark .services-list-tab .tabs li.current a {
   color: #ffffff;
-  background-color: #F0B9B2;
+  background-color: #f4bd3c;
 }
 
 .theme-dark .services-list-tab .tabs li.current a i {
-  background-color: #F0B9B2;
+  background-color: #f4bd3c;
   color: #ffffff;
 }
 
@@ -499,12 +499,12 @@ Default CSS
 }
 
 .theme-dark .faq-accordion .accordion .accordion-title.active {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .faq-accordion .accordion .accordion-title.active i::before {
   content: "\ed91";
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .faq-accordion .accordion .accordion-content {
@@ -524,7 +524,7 @@ Default CSS
 }
 
 .theme-dark .single-pricing-table .pricing-header i {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .single-pricing-table .pricing-header h3 {
@@ -564,7 +564,7 @@ Default CSS
 }
 
 .theme-dark .top-header-area.bg-color .top-header-information li i {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .top-header-area.bg-color .top-header-information li a {
@@ -572,7 +572,7 @@ Default CSS
 }
 
 .theme-dark .top-header-area.bg-color .top-header-information li a:hover {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .top-header-area.bg-color .top-header-optional li a i {
@@ -593,7 +593,7 @@ Default CSS
 }
 
 .theme-dark .top-header-area.bg-transparent .top-header-information li i {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .top-header-area.bg-transparent .top-header-information li a {
@@ -601,7 +601,7 @@ Default CSS
 }
 
 .theme-dark .top-header-area.bg-transparent .top-header-information li a:hover {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .top-header-area.bg-transparent .top-header-optional li a i {
@@ -645,7 +645,7 @@ Default CSS
 }
 
 .theme-dark .clients-item .item .title-info span {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .single-blog-item .blog-content {
@@ -703,11 +703,11 @@ Default CSS
 }
 
 .theme-dark .coaches-details-content .information li a:hover {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .psylo-grid-sorting .result-count p .count {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .psylo-grid-sorting .ordering .nice-select {
@@ -725,12 +725,12 @@ Default CSS
 }
 
 .theme-dark .psylo-grid-sorting .ordering .nice-select .list .option.selected.focus {
-  color: #F0B9B2;
+  color: #f4bd3c;
   background-color: #ffffff;
 }
 
 .theme-dark .psylo-grid-sorting .ordering .nice-select .list .option:hover {
-  background-color: #F0B9B2;
+  background-color: #f4bd3c;
   color: #ffffff;
 }
 
@@ -739,7 +739,7 @@ Default CSS
 }
 
 .theme-dark .psylo-grid-sorting .ordering .nice-select:hover {
-  border-color: #F0B9B2;
+  border-color: #f4bd3c;
   background-color: transparent;
 }
 
@@ -766,7 +766,7 @@ Default CSS
 }
 
 .theme-dark .psylo-grid-sorting .search-form .search-field:focus {
-  border-color: #F0B9B2;
+  border-color: #f4bd3c;
 }
 
 .theme-dark .single-events-box {
@@ -805,7 +805,7 @@ Default CSS
 }
 
 .theme-dark .events-details-header ul li i {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .events-details-info {
@@ -830,7 +830,7 @@ Default CSS
 }
 
 .theme-dark .events-details-info .events-btn-box p a {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .events-details-info .events-btn-box p a:hover {
@@ -889,7 +889,7 @@ Default CSS
 }
 
 .theme-dark .book-online-form form .form-group .form-control:focus {
-  border: 1px solid #F0B9B2;
+  border: 1px solid #f4bd3c;
 }
 
 .theme-dark .book-online-form form .nice-select {
@@ -899,7 +899,7 @@ Default CSS
 }
 
 .theme-dark .book-online-form form .nice-select:focus {
-  border: 1px solid #F0B9B2;
+  border: 1px solid #f4bd3c;
 }
 
 .theme-dark .book-online-form form .nice-select .list {
@@ -911,7 +911,7 @@ Default CSS
 }
 
 .theme-dark .book-online-form form .nice-select .list .option:hover {
-  background-color: #F0B9B2 !important;
+  background-color: #f4bd3c !important;
   color: #ffffff;
 }
 
@@ -924,7 +924,7 @@ Default CSS
 }
 
 .theme-dark .login-form h2::before {
-  border-bottom: 1px solid #F0B9B2;
+  border-bottom: 1px solid #f4bd3c;
 }
 
 .theme-dark .login-form form .form-group label {
@@ -954,7 +954,7 @@ Default CSS
 }
 
 .theme-dark .login-form form .form-group .form-control:focus {
-  border: 1px solid #F0B9B2;
+  border: 1px solid #f4bd3c;
 }
 
 .theme-dark .login-form form .form-check-input {
@@ -978,7 +978,7 @@ Default CSS
 }
 
 .theme-dark .register-form h2::before {
-  border-bottom: 1px solid #F0B9B2;
+  border-bottom: 1px solid #f4bd3c;
 }
 
 .theme-dark .register-form form .form-group label {
@@ -1008,7 +1008,7 @@ Default CSS
 }
 
 .theme-dark .register-form form .form-group .form-control:focus {
-  border: 1px solid #F0B9B2;
+  border: 1px solid #f4bd3c;
 }
 
 .theme-dark .register-form form .description {
@@ -1046,7 +1046,7 @@ Default CSS
 }
 
 .theme-dark .book-appointment-form form .form-group .form-control:focus {
-  border: 1px solid #F0B9B2;
+  border: 1px solid #f4bd3c;
 }
 
 .theme-dark .terms-of-service-content h3 span {
@@ -1112,7 +1112,7 @@ Default CSS
 }
 
 .theme-dark .coming-soon-content .newsletter-form .form-group .input-newsletter:focus {
-  border: 1px solid #F0B9B2;
+  border: 1px solid #f4bd3c;
 }
 
 .theme-dark .coming-soon-content .newsletter-form .form-group .input-newsletter:focus::-webkit-input-placeholder {
@@ -1155,7 +1155,7 @@ Default CSS
 
 .theme-dark .membership-levels-table .table tbody tr td .select-btn {
   color: #ffffff !important;
-  background-color: #F0B9B2;
+  background-color: #f4bd3c;
 }
 
 .theme-dark .membership-levels-table .table tbody tr td .select-btn:hover {
@@ -1194,7 +1194,7 @@ Default CSS
 }
 
 .theme-dark .become-coaches-form form .form-group .form-control:focus {
-  border: 1px solid #F0B9B2;
+  border: 1px solid #f4bd3c;
   background-color: transparent;
 }
 
@@ -1247,7 +1247,7 @@ Default CSS
 
 .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li a .courses-meta .duration {
   background: #000000;
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li a .courses-meta .status {
@@ -1261,7 +1261,7 @@ Default CSS
 }
 
 .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li a:hover {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(2) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(4) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(6) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(8) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(10) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(12) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(14) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(16) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(18) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(20) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(22) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(24) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(26) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(28) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(30) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(32) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(34) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(36) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(38) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(40) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(42) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(44) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(46) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(48) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(50) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(52) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(54) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(56) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(58) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(60) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(62) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(64) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(66) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(68) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(70) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(72) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(74) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(76) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(78) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(80) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(82) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(84) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(86) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(88) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(90) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(92) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(94) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(96) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(98) a, .theme-dark .courses-details-desc .tab-content .courses-curriculum ul li:nth-child(100) a {
@@ -1365,7 +1365,7 @@ Default CSS
 }
 
 .theme-dark .services-details-info .choose-us-services .choose-us-content {
-  background-color: #F0B9B2;
+  background-color: #f4bd3c;
 }
 
 .theme-dark .services-details-info .choose-us-services .choose-us-content .icon {
@@ -1399,8 +1399,8 @@ Default CSS
 }
 
 .theme-dark .services-details-info .appointment-form form .form-group .form-control:focus {
-  background-color: #F0B9B2;
-  border-color: #F0B9B2;
+  background-color: #f4bd3c;
+  border-color: #f4bd3c;
 }
 
 .theme-dark .services-details-info .appointment-form form .form-group .form-control:focus::-webkit-input-placeholder {
@@ -1437,7 +1437,7 @@ Default CSS
 }
 
 .theme-dark .cart-table table tbody tr td.product-name a:hover {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .cart-table table tbody tr td.product-price .unit-amount {
@@ -1476,7 +1476,7 @@ Default CSS
 }
 
 .theme-dark .cart-buttons .shopping-coupon-code .form-control:focus {
-  border-color: #F0B9B2;
+  border-color: #f4bd3c;
   background-color: transparent;
 }
 
@@ -1527,7 +1527,7 @@ Default CSS
 }
 
 .theme-dark .wishlist-table table tbody tr td.product-name a:hover {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .wishlist-table table tbody tr td.product-price .unit-amount {
@@ -1590,7 +1590,7 @@ Default CSS
 }
 
 .theme-dark .billing-details .form-group .form-control:focus {
-  border-color: #F0B9B2;
+  border-color: #f4bd3c;
   background-color: transparent;
 }
 
@@ -1625,12 +1625,12 @@ Default CSS
 }
 
 .theme-dark .billing-details .form-group .nice-select .list .option:hover {
-  background-color: #F0B9B2 !important;
+  background-color: #f4bd3c !important;
   color: #ffffff;
 }
 
 .theme-dark .billing-details .form-group .nice-select .list .option.selected:hover {
-  background-color: #F0B9B2 !important;
+  background-color: #f4bd3c !important;
   color: #ffffff;
 }
 
@@ -1639,7 +1639,7 @@ Default CSS
 }
 
 .theme-dark .billing-details .form-group .nice-select:after {
-  border-color: #F0B9B2;
+  border-color: #f4bd3c;
 }
 
 .theme-dark .billing-details .form-check .form-check-label {
@@ -1656,7 +1656,7 @@ Default CSS
 }
 
 .theme-dark .order-details .order-table table tbody tr td {
-  color: #F0B9B2;
+  color: #f4bd3c;
   border-color: #0e0e0e;
 }
 
@@ -1701,11 +1701,11 @@ Default CSS
 }
 
 .theme-dark .order-details .payment-box .payment-method p [type="radio"]:checked + label::after, .theme-dark .order-details .payment-box .payment-method p [type="radio"]:not(:checked) + label::after {
-  background: #F0B9B2;
+  background: #f4bd3c;
 }
 
 .theme-dark .products-details-desc .price {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .products-details-desc .products-review .rating .rating-count {
@@ -1713,8 +1713,8 @@ Default CSS
 }
 
 .theme-dark .products-details-desc .products-review .rating .rating-count:hover {
-  color: #F0B9B2;
-  border-color: #F0B9B2;
+  color: #f4bd3c;
+  border-color: #f4bd3c;
 }
 
 .theme-dark .products-details-tabs .nav .nav-item .nav-link {
@@ -1723,7 +1723,7 @@ Default CSS
 }
 
 .theme-dark .products-details-tabs .nav .nav-item .nav-link:hover, .theme-dark .products-details-tabs .nav .nav-item .nav-link.active {
-  background-color: #F0B9B2;
+  background-color: #f4bd3c;
   color: #ffffff;
 }
 
@@ -1770,7 +1770,7 @@ Default CSS
 }
 
 .theme-dark .products-details-tabs .tab-content .tab-pane .products-review-form .review-form form .form-group .form-control:focus {
-  border-color: #F0B9B2;
+  border-color: #f4bd3c;
   background-color: transparent;
 }
 
@@ -1815,11 +1815,11 @@ Default CSS
 }
 
 .theme-dark .blog-details-desc .article-content .title-box .entry-meta ul li a:hover {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .blog-details-desc .article-content .title-box .entry-meta ul li i {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .blog-details-desc .article-content blockquote, .theme-dark .blog-details-desc .article-content .blockquote {
@@ -1844,7 +1844,7 @@ Default CSS
 }
 
 .theme-dark .blog-details-desc .article-footer .article-tags a:hover {
-  background-color: #F0B9B2;
+  background-color: #f4bd3c;
   color: #ffffff;
 }
 
@@ -1858,7 +1858,7 @@ Default CSS
 }
 
 .theme-dark .blog-details-desc .article-footer .article-share a:hover {
-  background-color: #F0B9B2;
+  background-color: #f4bd3c;
   color: #ffffff;
 }
 
@@ -1910,7 +1910,7 @@ Default CSS
 }
 
 .theme-dark .comments-area .comment-metadata a:hover {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .comments-area .comment-respond .comment-form .form-group .form-control {
@@ -1937,8 +1937,8 @@ Default CSS
 
 .theme-dark .comments-area .comment-respond .comment-form .form-group .form-control:focus {
   outline: 0;
-  background-color: #F0B9B2;
-  border-color: #F0B9B2;
+  background-color: #f4bd3c;
+  border-color: #f4bd3c;
   -webkit-box-shadow: none;
           box-shadow: none;
 }
@@ -1968,7 +1968,7 @@ Default CSS
 }
 
 .theme-dark .contact-info-box .icon i {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .contact-info-box p {
@@ -1980,7 +1980,7 @@ Default CSS
 }
 
 .theme-dark .contact-info-box p a:hover {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 .theme-dark .contact-area {
@@ -2010,8 +2010,8 @@ Default CSS
 }
 
 .theme-dark #contactForm .form-group .form-control:focus {
-  background-color: #F0B9B2;
-  border-color: #F0B9B2;
+  background-color: #f4bd3c;
+  border-color: #f4bd3c;
 }
 
 .theme-dark #contactForm .form-check label {
@@ -2023,7 +2023,7 @@ Default CSS
 }
 
 .theme-dark #contactForm .form-check label a:hover {
-  color: #F0B9B2;
+  color: #f4bd3c;
 }
 
 @media only screen and (max-width: 767px) {
@@ -2043,7 +2043,7 @@ Default CSS
     background-color: #ffffff;
   }
   .theme-dark .others-option-for-responsive .dot-menu .inner .circle:hover {
-    background-color: #F0B9B2;
+    background-color: #f4bd3c;
   }
 }
 
@@ -2064,7 +2064,7 @@ Default CSS
     background-color: #ffffff;
   }
   .theme-dark .others-option-for-responsive .dot-menu .inner .circle:hover {
-    background-color: #F0B9B2;
+    background-color: #f4bd3c;
   }
 }
 
@@ -2085,7 +2085,7 @@ Default CSS
     background-color: #ffffff;
   }
   .theme-dark .others-option-for-responsive .dot-menu .inner .circle:hover {
-    background-color: #F0B9B2;
+    background-color: #f4bd3c;
   }
 }
 /*# sourceMappingURL=dark.css.map */
